@@ -9,3 +9,9 @@ Consigli del giorno:
 2. Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
+
+
+un numero è divisibile per un altro numero se la loro divisione non produce resto
+con l'operatore % possiamo calcolarne il valore
+
+utilizzo un ciclo for con i=1 e progressione di 1 , lo pongo a tre diverse condizione se nessuna di essa viene soddisfatta allora stampo il numero
